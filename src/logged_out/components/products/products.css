@@ -1,0 +1,202 @@
+.working-areas-img {
+    width: 50%;
+    height: auto;
+}
+
+.center-text {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3vw;
+    font-weight: bold;
+    color: #556070;
+    max-width: 20%;
+}
+
+.text-data-center, .text-bit, .text-task, .text-iot, .text-artificial {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-size: 1vw;
+    font-weight: bold;
+    max-width: 7%;
+}
+
+.text-data-center {
+    top: 52%;
+    left: 32%;
+    color: #F8AC48;
+}
+
+.text-bit {
+    top: 28%;
+    left: 39%;
+    color: #48daeb;
+}
+
+.text-task {
+    top: 18%;
+    left: 50%;
+    color: #50B2FC;
+}
+
+.text-iot {
+    top: 28%;
+    left: 61.5%;
+    color: #4A7FEB;
+}
+
+.text-artificial {
+    top: 52%;
+    left: 69%;
+    color: #6060E3;
+}
+
+.button-data-center, .button-bit, .button-task, .button-iot, .button-artificial {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-size: 1vw;
+    font-weight: bold;
+    color: white;
+    min-width: 75px;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.button-data-center {
+    background-color: #F8AC48;
+    border: 2px solid #cb8a36;
+    top: 39%;
+    left: 25%;
+}
+
+.button-bit {
+    background-color: #48daeb;
+    border: 2px solid #3fc0cf;
+    top: 16%;
+    left: 32%;
+}
+
+.button-task {
+    background-color: #50B2FC;
+    border: 2px solid #46a0e6;
+    top: 3%;
+    left: 50%;
+}
+
+.button-iot {
+    background-color: #4A7FEB;
+    border: 2px solid #4170cd;
+    top: 16%;
+    left: 68.5%;
+}
+
+.button-artificial {
+    background-color: #6060E3;
+    border: 2px solid #4f4fc4;
+    top: 39%;
+    left: 75%;
+}
+
+@media (max-width: 980px) {
+    .working-areas-img {
+      width: 70%;
+    }
+
+    .text-data-center, .text-bit, .text-task, .text-iot, .text-artificial {
+        font-size: 1.3vw;
+    }
+
+    .text-data-center {
+        left: 25%;
+    }
+
+    .text-bit {
+        left: 35%;
+    }
+
+    .text-iot {
+        left: 66%;
+    }
+
+    .text-artificial {
+        left: 76%;
+    }
+
+    .button-data-center, .button-bit, .button-task, .button-iot, .button-artificial {
+        font-size: 1.3vw;
+        min-width: 65px;
+    }
+    
+    .button-data-center {
+        left: 15%;
+    }
+    
+    .button-bit {
+        left: 25%;
+    }
+    
+    .button-iot {
+        left: 76%;
+    }
+    
+    .button-artificial {
+        left: 85%;
+    }
+}
+
+@media (max-width: 580px) {
+    .working-areas-img {
+      width: 100%;
+    }
+
+    .center-text {
+        font-size: 4vw;
+    }
+
+    .text-data-center, .text-bit, .text-task, .text-iot, .text-artificial {
+        font-size: 2vw;
+        max-width: 10%;
+    }
+
+    .text-data-center {
+        left: 14%;
+    }
+
+    .text-bit {
+        left: 28%;
+    }
+
+    .text-iot {
+        left: 73%;
+    }
+
+    .text-artificial {
+        left: 88%;
+    }
+
+    .button-data-center, .button-bit, .button-task, .button-iot, .button-artificial {
+        font-size: 2vw;
+        min-width: 50px;
+    }
+    
+    .button-data-center {
+        top: 36%;
+        left: 5%;
+    }
+    
+    .button-bit {
+        top: 12%;
+        left: 19%;
+    }
+    
+    .button-iot {
+        top: 12%;
+        left: 82%;
+    }
+    
+    .button-artificial {
+        top: 36%;
+        left: 95%;
+    }
+}

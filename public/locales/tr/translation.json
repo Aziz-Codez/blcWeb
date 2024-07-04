@@ -1,0 +1,189 @@
+{
+    "Home": "Anasayfa",
+    "Products": "Ürünler",
+    "R&D": "AR-GE",
+    "News": "Haberler",
+    "About Us": "Hakkımızda",
+
+    "certificates": "Kalite Sertifikalarımız",
+
+    "socialMedia": "Sosyal Medyada Biz",
+
+    "Main Driving Factors": "Temel Projelendirme Yaklaşımlarımız",
+    "Avoid vendor lock in": "Minumum Üretici Bağımlılığı",
+    "Optimized spend": "Maliyetlerde Optimize",
+    "High capable/competent cloud SMEs": "Bulut Çözümlerine Yönelik Yüksek Bilgi ve Birikim",
+    "Managing GRC and security": "GRC ve Güvenlik Yönetimi",
+    "Multi cloud standardization": "Çoklu Bulut Altyapısı",
+    "Business agility towards customers": "Müşterilere Yönelik İş Esnekliği",
+    "Support for open systems": "Açık Sistemler İçin Destek",
+    "Ecosystem with local-global stakeholders": "Yerel ve Global paydaşlarla ekosistem",
+    "GRC":"GRC: Yönetişim, Risk ve Uygunluk", 
+
+    "Communication for a Better LIFE": "Daha İyi Bir Yaşam İçin İletişim",
+    "Communication for":"Better Life Communication",
+
+    "Network, Data Center and Cloud Solutions": "Ağ, Veri Merkezi ve Bulut Çözümleri",
+    "Cloud Solutions": "Bulut Çözümleri",
+    "Software Defined Data Center": "Yazılım Tanımlı Veri Merkezi",
+    "Software Defined Wide Area Network": "Yazılım Tanımlı Geniş Alan Ağı",
+
+    "Consulting and System Integration Services": "Danışmanlık ve Sistem Entegrasyon Hizmetleri",
+    "Cost Effective": "Uygun Maliyetli",
+    "Solution oriented": "Çözüm odaklı",
+    "Sustainable": "Sürdürülebilir",
+    "Confidence Oriented": "Güven Odaklı",
+    "Domestic and International Service": "Yurt içi ve Yurtdışı Hizmet",
+
+    "Telecom Infrastructure": "Telekom Altyapısı",
+    "Transmission Network": "İletim Ağı",
+    "Vertical Sector Applications": "Düşey Sektör Uygulamaları",
+    "IoT": "IoT",
+    "Access Network": "Erişim Ağı",
+
+    "Data Fusion with Artificial Intelligence": "Yapay Zeka ile Veri Füzyonu",
+    "Data Fusion Analytics": "Veri Füzyon Analitiği",
+    "Smart City": "Akıllı Şehir",
+    "Energy Optimization": "Enerji Optimizasyonu",
+
+    "E2E Application (Mobile) Development": "E2E Uygulama (Mobil) Geliştirme",
+    "Software Development": "Yazılım Geliştirme",
+    "Mobile Application": "Mobil Uygulama",
+    "Hardware Integration": "Donanım Entegrasyonu",
+    "Central Monitoring": "Merkezi İzleme",
+    "Map Application": "Harita Uygulaması",
+
+    "dynamic.company": "YENİ VE DİNAMİK BİR ŞİRKETİZ",
+    "strong.company": "30 yılı aşkın teknik ve alan uzmanlığı konusundaki tecrübenin bütünleşerek, global pazarlarda da ses getirecek ürünleri geliştirmeyi hedefleyen çevik, yeni ve güçlü bir firmayız.",
+    "az.karbon": "BLC Bulut Sistemi, birden fazla uygulamayı bir arada tutmasının yanında bilgilerinizi dijital ortamda güvende tutarak basılı arşivlere olan ihtiyacınızı ortadan kaldırıyor. Dijital dünyanın getirdiği en büyük kolaylık olan bilgiye her an erişim imkanı BLC güvencesiyle kullanıcıları ile buluştu! Geliştirdiğimiz sistem ve dijitalleşmeden aldığımız güç ile Karbon salınımını en alt düzeye indiriyoruz!",    
+    "danismanlik":"Danışmanlık ve Sistem Entegrasyon Hizmetleri ile güven odaklı, sürdürülebilir, çözüm odaklı yurtiçi ve yurt dışı hizmet ağına sahibiz.",
+    "gelecegin.izinde":"BLC olarak, geliştirdiğimiz teknoloji sayesinde sanal ortamı daha güvenilir hale getiriyor, kullanıcılarımıza İletişim ve Güvenlik Sistemleri konusunda üst düzey hizmet sunuyoruz.",
+    "veriye.dayali": "Markaların hedeflerine ulaşması, gerçekleştirdikleri ve planladıkları stratejiler/projeler ile doğru orantılıdır. Bu hususta elimizde iyi verilerin olması bizi hedefe yaklaştırır. Artık sektör fark etmeksizin tüm markalar veriler aracılığı ile müşteri profilini tanıyabilmektedir. Peki, verilerinizin güvende olduğundan emin misiniz? BLC ile verilerinizin güvenliğini sağlayabilir, hedeflerinizi 3. kişilerden uzak tutabilirsiniz.",    
+    "akilli.sehir": "Akıllı şehir, veri toplamak için farklı türde elektronik nesnelerin interneti sensörlerini kullanan ve daha sonra varlıkları, kaynakları ve hizmetleri verimli bir şekilde yönetmek için bu verilerden elde edilen bilgileri kullanan bir kentsel bir alandır.",    
+    "daily.moments": "BLC'den Anlar",
+
+    "ai.supported": "AI Destekli Akıllı, Yeşil, Entegre Kaynak Planlaması ve Yönetim Optimizasyonu Bulut Ortamlarında Sistem" ,
+    "VMware and Türk Telekom support for the project": "VMware ve Türk Telekom bu projeyi destekliyor",
+    "AYPOS":"AYPOS, Küresel Yeşil Sistemler için E2E Bulut çözümlerinde enerji kullanımını optimize etmek için gelişmiş bir mimariyi hedefleyen bir yazılım projesidir",
+    "around 7.2 million data centers in the world": "Dünyada yaklaşık 7.2 milyon veri merkezi var",
+    "Global Energy Consumption": "Global Enerji Tüketimi => Veri Merkezleri ve IT Sistemleri: Şimdi => 3-4%    2040 => 20%",
+    "Energy cons": "EU'daki DC'nin enerji tüketimi 53.9 TWh (2010) 76.8 TWh (2018) 18=>25: + 21% ile 92.6 TWh'a yükseldi",
+    "The share of cloud": "Bulut Veri Merkezlerinin Toplam DC Enerji Kullanımı'na göre payı 2010: 10% 2018: 35% 2025: 60%",
+    "The share of edge": "Kenar veri merkezlerinin payı => 2025 yılına kadar, EU28'deki Toplam DC Enerji Kullanımı'nın % 12'si.",
+    "In Turkey:": " Türkiye'de:",
+    "An operator 2022":" Bir operatörün (2022) elektrik maliyeti yaklaşık 100M USD'dir",
+    "Electric cost": "Bir DC'de elektrik maliyeti => 30 Megawatt/h",
+    "Not all data centers": "Tüm veri merkezleri modern/akıllı ve verimli altyapıya sahip değil",
+
+    "iso-45001": "İş Sağlığı ve Güvenliği Yönetim Sistemi",
+    "iso-27001": "Bilgi Güvenliği Yönetim Sistemleri",
+    "iso-9001": "Kalite Yönetim Sistemi",
+    "iso-10002": "Müşteri Memnuniyeti Yönetim Sistemi",
+    "iso-14001": "Çevre Yönetim Sistemi",
+
+    "Name or Company": "Adınız veya Şirketiniz",
+    "Get in Touch": "İletişime Geçin",
+    "Send": "Gönder",
+    "office": "Beştepe Ofis:",
+    "center": " Merkez Ofis: Ostim OSB Mah. 100.Yıl Bulvarı Turkuaz Bina No: 55/E/17 Yenimahalle/Ankara",
+    "copyright":"Tüm Hakları Saklıdır © ",
+    "BLC":" BLC İletişim ve Güvenlik Sistemleri",
+    "message": "Mesaj başarıyla gönderildi!",
+
+    "readMore":"daha fazlası için..",
+    "otherNews": "Diğer Haberler",
+    "otherProducts": "Diğer Ürünler",
+
+    "shareFacebook":"Facebook'ta Paylaş",
+    "shareTwitter":"Twitter'da Paylaş",
+    "shareWhatsapp":"Whatsapp'ta Paylaş",
+
+    "Product":{
+        "Areas": {
+            "areas":"Çalışma Alanlarımız",
+            "datacenter":"Veri Merkezi ve Bulut Çözümleri",
+            "bit":"B’IT Bütünleşik IT Hizmetleri",
+            "task":"Personel Görev - Takip",
+            "iot":"IoT Çözümleri",
+            "artificial":"Yapay Zeka Uygulamaları"
+        },
+        "SnippetInfrastructure":"Dünya çapında sektör standardı haline gelen açık kaynaklı Openstack yazılımını kullanan bulut alt yapımız ile, kullanıcı ve tenant bazlı ayrımlarla sanal çalışma ortamları oluşturuyoruz. Verilerinizi ise yine dünyanın en popüler açık kaynaklı çözümlerinden olan CEPH alt yapısında, güvenli, dayanıklı ve dağıtık bir şekilde tutuyoruz. ",
+        "SnippetInfrastructure1":"Dünya çapında sektör standardı haline gelen açık kaynaklı Openstack yazılımını kullanan bulut alt yapımız ile, kullanıcı ve tenant bazlı ayrımlarla sanal çalışma ortamları oluşturuyoruz. Verilerinizi ise yine dünyanın en popüler açık kaynaklı çözümlerinden olan CEPH alt yapısında, güvenli, dayanıklı ve dağıtık bir şekilde tutuyoruz. Modern altyapımız ile orta ve büyük ölçekli veri merkezlerine veya küçük boyutlu veri merkezleri ayrı çözümler sunuyoruz. Openstack ve Ceph'in kanıtlanmış gücünü, kendi BLC-Cloud ürünümüzde birleştiriyoruz.",
+        "SnippetPlatform": "BLC Platformu ile kullanıcılarımız, müşteri arayüzünden sanal makineler oluşturarak sağlamış olduğumuz hizmetleri bizden alabilir ve kullanabilirler.",
+        "SnippetBIT": "BLC-CL yazılım hizmetlerimiz kurumların günlük iş aktivitelerini yönetmek için doküman paylaşımı, Office uygulamalarının ortak kullanımı, Takvim, Email, Video konferans, Chat gibi alanlarda entegre bir şekilde çalışmaktadır.",
+        "SnippetTask": "Görev takip sistemi ile personelin anlık konum bilgileri takip edilebilmekte, personelin atanan alanların dışına çıkıp çıkmadığı takip edilebilmektedir.",
+        "Content3":{
+            "InOur":"BLC-CL hizmetimizde kurumların günlük iş faaliyetlerini yönetmek üzere;",
+            "MailServer":"Mail Servisi",
+            "Calender":"Takvim",
+            "Planner":"Planlayıcı",
+            "Video":"Video Konferansı",
+            "ToDoList":"Yapılacaklar Listesi",
+            "DocumentSharing":"Doküman paylaşımı",
+            "OfficeDocs":"Office uygulamalarının ortaklaşa kullanılması",
+            "CollaborationTools":"İş planlaması/atama",
+            "OurServices":"  gibi konularda hizmet verdiğimiz yazılım servislerimiz entegre olarak çalışmaktadır.",
+            "because":" çünkü:",
+            "goodFor":"KOBİ'ler, Zincirler, İşletmeler, Üniversiteler İçin İyi,",
+            "LessTedious":"Eğlenceli,",
+            "UserFriendly":"Kullanıcı Dostu,",
+            "Sustainable":"Sürdürülebilir",
+            "Check":"Gözat!",
+            "Demo": "DEMO için bizimle iletişime geçin"
+        },
+        "Content4":{
+            "withTheTask":"Görev takip sistemi ile personelin anlık konum bilgisi takip edilebilmekte ve personelin atanan alanların dışına çıkıp çıkmadığı görülebilmektedir.",
+            "theTask":"Görev takip sistemi, çalışanların iş yeri ihlallerini tespit ederek görev yönetiminin daha verimli hale gelmesine yardımcı olur.",
+            "advantages":"BLC Görev Takip Sisteminin Avantajları",
+            "RealTime":"Gerçek zamanlı personel takibi",
+            "MoreEfficient":"Daha verimli planlama ve yönetim",
+            "Detection":"Personel verimlilik sorunlarının tespiti",
+            "MoreEffective":"Kaynakların daha etkin ve verimli kullanılması",
+            "Effective":"Etkili duyuru yönetimi",
+            "Inventory":"Envanter takibi ve personel atamaları",
+            "DetectionAnd":"Görev yerini ihlal eden personeli tespit ve ikaz sistemi",
+            "Recording":"İhlallerin kaydedilmesi",
+            "QR":"QR kod desteği",
+            "Personnel":"Personel güvenliği",
+
+            "ItContributes":"Personele ilişkin çeşitli istatistiksel veriler ile performans analizine katkı sağlar.",
+            "Ifthe":"Personel mesai saatleri içinde kendisine tanımlanan alandan ayrılırsa uyarılır ve sistem bu durumu tespit eder.",
+            "ItIs":"Personelin anlık konumunu kontrol etmek mümkündür.",
+            "Special":"Özel veya toplu duyurular hazırlanarak personele gönderilebilir.",
+            "InventoryTracking":"Cihazların şirket bünyesinde envanter takibi ve cihaza yönelik personel atamaları ve düzenlemeleri yapılabilir."
+        }
+    },
+
+    "Blog": {
+        "Snippet1": "5G Panelinde.. ",
+        "Snippet2": "BLC İletişim ve Güvenlik olarak..",
+        "Snippet3":  "İlk mini veri merkezimiz.. ",
+        "Snippet4":  "..sizinle paylaşmaktan çok mutluyuz!.",
+        "Snippet5":  "VMware ve Türk Telekom desteğiyle..",
+        "Snippet6":  "Yerli ve yabancı ekosistemimiz ile beraber..",
+        "Snippet7": "katkı sağlamaya devam ediyoruz..",
+        "Title1": "ICSG 2021 fuarında görüşlerimizi paylaştık.",
+        "Title2": "BLC'nin Genel Müdürü Metin Balcı ICSG 2021'ye konuşmacı olarak katılıyor.",
+        "Title3": "İlk mini veri merkezimiz faaliyetine başladı.",
+        "Title4": "Better Life IT Service Şimdi AWS'de!",
+        "Title5": "Bulut mimarisinde enerji optimizasyonu (AYPOS) proje önerimiz kabul edildi",
+        "Title6": "BLC, 'Open Grid Alliance' a kabul edildi.",
+        "Title7": "MCW 2023 Fuarı'nda ülkemizden tek üye olduğumuz Open Grid Alliance ile Linux Foundation arasında işbirliğine yönelik bir MOU imzalandı.",
+        "Content2":"Çiçeği burnunda BLC İletişim ve Güvenlik AŞ olarak “Uluslararası İstanbul Akıllı Şebekeler ve Akıllı Şehirler Kongre ve Fuarı ICSG 2021” kapsamında düzenlenecek 5G Panelinde davetli konuşmacı olarak katılmanın mutluluğunu yaşıyoruz.",
+        "Content3":"İlk mini veri merkezimizi devreye aldık.",
+        "Content4":"Better Life IT Service Şimdi AWS'de!",
+        "Content5":{
+            "1": "Bizim için önemli bir kilometre taşının başarılı geçilmesinde öncelikle firmamızın kıymetli personeline, danışman hocalarımız Prof. Dr. Fatih Karagöz ve Prof. Dr. Osman Taylan’a, projemize destek veren Türk Telekom, Karel, NetGSM ve Canovate firmalarımıza, projede görev alan hakem hocalarımıza ve Tübitak’a şükranlarımızı sunuyoruz.",
+            "2": "Yurt dışından bize destek olan Nokia Finlandiya ve Türkiye ekipleri ile VMWare ABD ve Avrupa ekiplerine de ayrıca teşekkür ediyoruz.",
+            "3": "Global bir ürün potansiyeli ve hedefi ile Bulut Teknolojileri, Veri Merkezi Altyapıları, IoT Sistemleri, Büyük Veri, Yapay Zeka ve Makina Öğrenmesi gibi konuları bir bütünlük içinde, çok disiplinli bir proje anlayışıyla gerçekleştirmeyi planladığımız projemizde, en büyük kazancımız arkadaşlarımızın böylesine kapsamlı ve iddialı bir çalışmada yer alacak olması..."
+        },
+        "Content6":{
+            "1": "Bulut, Edge, AI, IOT, 5G/6G ve Siber Güvenlik süreçlerini bir arada özgün geliştirmeler ile etkin bir şekilde kullanmayı hedefleyen, bu çalışmalarını AYPOS ile projelendiren BLC, 'Open Grid Alliance' a kabul edildi.",
+            "2": "OpenGridAlliance üyeliği sürecindeki destek ve yönlendirmeleri için #VMware Global'e teşekkür ediyoruz.",
+            "3": "Yerli ve yabancı ekosistemimiz ile beraber yeni hedeflere doğru ilerliyoruz."
+        },
+        "Content7":{
+            "1": "Farklı ihtiyaçlara cevap verecek bulut ve IOT teknolojilerinin geliştirilmesine; teknolojinin kendi ihtiyaçlarımızı da kapsayacak şekilde düzenlenmesine katkı vermeye devam ediyoruz."
+        }
+    }
+}    

@@ -1,0 +1,190 @@
+{
+    "Home": "Home",
+    "Products": "Products",
+    "R&D": "R&D",
+    "News": "News",
+    "About Us": "About Us",
+
+    "certificates": "Our Quality Certificates",
+
+    "socialMedia": "BLC Social Media",
+
+    "Main Driving Factors": "Main Driving Factors",
+    "Avoid vendor lock in": "Avoid vendor lock in",
+    "Optimized spend": "Optimized spend",
+    "High capable/competent cloud SMEs": "High capable/competent cloud SMEs",
+    "Managing GRC and security": "Managing GRC and security",
+    "Multi cloud standardization": "Multi cloud standardization",
+    "Business agility towards customers": "Business agility towards customers",
+    "Support for open systems": "Support for open systems",
+    "Ecosystem with local-global stakeholders": "Ecosystem with local-global stakeholders",
+    "GRC":"GRC: Governance, Risk Management, and Compliance",
+
+    "Communication for a Better LIFE":"Communication for a Better LIFE",
+    "Communication for":"",
+
+    "Network, Data Center and Cloud Solutions": "Network, Data Center and Cloud Solutions",
+    "Cloud Solutions": "Cloud Solutions",
+    "Software Defined Data Center": "Software Defined Data Center",
+    "Software Defined Wide Area Network": "Software Defined Wide Area Network",
+
+    "Consulting and System Integration Services": "Consulting and System Integration Services",
+    "Cost Effective": "Cost Effective",
+    "Solution oriented": "Solution oriented",
+    "Sustainable": "Sustainable",
+    "Confidence Oriented": "Confidence Oriented",
+    "Domestic and International Service": "Domestic and International Service",
+
+    "Telecom Infrastructure": "Telecom Infrastructure",
+    "Transmission Network": "Transmission Network",
+    "Vertical Sector Applications": "Vertical Sector Applications",
+    "IoT": "IoT",
+    "Access Network": "Access Network",
+
+    "Data Fusion with Artificial Intelligence": "Data Fusion with Artificial Intelligence",
+    "Data Fusion Analytics": "Data Fusion Analytics",
+    "Smart City": "Smart City",
+    "Energy Optimization": "Energy Optimization",
+
+    "E2E Application (Mobile) Development": "E2E Application (Mobile) Development",
+    "Software Development": "Software Development",
+    "Mobile Application": "Mobile Application",
+    "Hardware Integration": "Hardware Integration",
+    "Central Monitoring": "Central Monitoring",
+    "Map Application": "Map Application",
+    
+    "dynamic.company":"WE ARE NEW AND DYNAMIC COMPANY",
+    "strong.company":"We are a new, dynamic and strong company that aims to develop products that will make an impact in global markets by integrating more than 30 years of experience in technical and field expertise.",
+    "az.karbon": "BLC Cloud System not only keeps multiple applications together, but also keeps your information safe in the digital environment and eliminates the need for hard copy archives. The opportunity to access information, which is the greatest convenience brought by the digital world, met with the user with the assurance of BLC! With the system we have developed and the power we derive from digitalization, we are minimizing carbon emissions!",
+    "danismanlik": "We have Consultancy and System Integration Services and a trust-oriented, sustainable, solution-oriented domestic and international service network.",
+    "gelecegin.izinde": "As BLC, we make the virtual environment more reliable with the technology we have developed, and offer our users a high level of service on Communication and Security Systems.",
+    "veriye.dayali": "Achieving the goals of brands is directly proportional to the strategies/projects they have realized and planned. Having good data in this regard brings us closer to the target. Now, regardless of the sector, all brands can recognize the customer profile through data. So, are you sure your data is safe? With BLC, you can secure your data and keep your targets away from third parties.",
+    "akilli.sehir" : "A smart city is an urban area that uses different types of electronic Internet of Things sensors to collect data and then use the insights from this data to efficiently manage assets, resources and services.",
+    "daily.moments": "Daily Moments From BLC",
+
+    "ai.supported": "AI Supported Smart, Green, Integrated Resource Planning and Management Optimization System in Cloud Environments",
+    "VMware and Türk Telekom support for the project":"VMware and Türk Telekom support for the project",
+    "AYPOS":"AYPOS  is a software project which aim  an evolved architecture to optimize the energy utilization in E2E Cloud solutions for Global Green Systems",
+    "around 7.2 million data centers in the world": "around 7.2 million data centers in the world",
+    "Global Energy Consumption": "Global Energy Consumption => Data Centers & IT Sys.: Now => 3-4%  In 2040 => 20% ",
+    "Energy cons": "Energy cons. of DC  in EU 53.9 TWh (2010)  to 76.8 TWh (2018)  18=>25: + by 21% to 92.6 TWh ",
+    "The share of cloud": "The share of cloud Data Centers w.r.t.  Total DC Energy utilization  2010:  10%     2018: 35%      2025: 60%",
+    "The share of edge": "The share of edge data centres  =>  By 2025, 12% of Total DC Energy utilization in EU28.",
+    "In Turkey:":"In Turkey:",
+    "An operator 2022": "An operator 2022 electric cost is approx. 100 M USD ",
+    "Electric cost": "Electric cost in one DC =>  30 Megawatt/h ",
+    "Not all data centers": "Not all data centers have modern/smart and efficient infrastructure",
+
+    "iso-45001": "Occupational Health and Safety Management Systems",
+    "iso-27001": "Information Security Management Systems",
+    "iso-9001": "Quality Management System",
+    "iso-10002": "Customer Satisfaction Management System",
+    "iso-14001": "Environmental Management Systems",
+    
+    "Name or Company": "Name or Company",
+    "Get in Touch": "Get in Touch",
+    "Send": "Send",
+    "office": "Beştepe Office:",
+    "center": " Central Office: Ostim OSB Mah. 100.Yıl Bulvarı Turkuaz Bina No: 55/E/17 Yenimahalle/Ankara",
+    "copyright":"Copyright © ",
+    "BLC":" BLC Communication and Security Systems",
+    "message":"Message send successfully!",
+
+    "readMore":"for more..",
+    "otherNews": "Other News",
+    "otherProducts": "Other Products",
+
+    "shareFacebook":"Share on Facebook",
+    "shareTwitter":"Share on Twitter",
+    "shareWhatsapp":"Share on Whatsapp",
+
+    "Product":{
+        "Areas": {
+            "areas":"Our Working Areas",
+            "datacenter":"Data Center and Cloud Solutions",
+            "bit":"B’IT Integrated IT Services",
+            "task":"Personnel Task - Tracking",
+            "iot":"IoT Solutions",
+            "artificial":"Artificial Intelligence Applications"
+        },
+        "SnippetInfrastructure":"With our cloud infrastructure using the open source Openstack software, which has become the industry standard worldwide, we create virtual work environments with user and tenant based separations. We keep your data in a secure, durable and distributed way in CEPH infrastructure, which is also one of the world's most popular open source solutions.",
+        "SnippetInfrastructure1":"With our cloud infrastructure using the open source Openstack software, which has become the industry standard worldwide, we create virtual work environments with user and tenant based separations. We keep your data in a secure, durable and distributed way in CEPH infrastructure, which is also one of the world's most popular open source solutions. With our modern infrastructure, we offer separate solutions for medium and large-scale data centers or small-sized data centers. We combine the proven power of OpenStack and Ceph in our own BLC-Cloud product.",
+        "SnippetPlatform": "With the BLC Platform, our users can create virtual machines from the customer interface and receive and use the services we have provided from us.",
+        "SnippetBIT": "In our BLC-CL software services work in an integrated manner in areas such as document sharing, joint use of Office applications, Calendar, Email, Video conference, Chat in order to manage the daily business activities of institutions.",
+        "SnippetTask": "With the task tracking system, the instant location information of the personnel can be followed, and it is possible to track whether the personnel has gone out of the assigned areas.",
+        "Content3":{
+            "InOur":"In our BLC-CL service, to manage the daily business activities of institutions;",
+            "MailServer":"Mail Server",
+            "Calender":"Calender",
+            "Planner":"Planner",
+            "Video":"Video Conference",
+            "ToDoList":"To-Do List",
+            "DocumentSharing":"Document Sharing",
+            "OfficeDocs":"Office Docs",
+            "CollaborationTools":"Collaboration Tools",
+            "OurServices":" Our software services, which we provide services in the above-mentioned issues, work in an integrated manner.",
+            "because":" because:",
+            "goodFor":"Good for SMEs, Chains, Enterprises, Universities,",
+            "LessTedious":"Less Tedious,",
+            "UserFriendly":"User Friendly,",
+            "Sustainable":"Sustainable,",
+            "Check":"Check it out!",
+            "Demo": "Contact with us for DEMO"
+        },
+        "Content4":{
+            "withTheTask":"With the task tracking system, the instant location information of the personnel can be followed, and it is possible to track whether the personnel has gone out of the assigned areas.",
+            "theTask":"The task tracking system helps to make the task management more efficient by detecting the workplace violations of the employees.",
+            "advantages":"BLC Task Tracking System Advantages",
+            "RealTime":"Real-time personnel tracking",
+            "MoreEfficient":"More efficient planning and management",
+            "Detection":"Detection of personnel productivity problems",
+            "MoreEffective":"More effective and efficient use of resources",
+            "Effective":"Effective announcement management",
+            "Inventory":"Inventory tracking and personnel assignments",
+            "DetectionAnd":"Detection and warning system of personnel violating their place of duty",
+            "Recording":"Recording of violations",
+            "QR":"QR code support",
+            "Personnel":"Personnel safety",
+
+            "ItContributes":"It contributes to performance analysis with various statistical data on personnel.",
+            "Ifthe":"If the personnel leaves the area defined for them during working hours, they are warned and the system detects this situation.",
+            "ItIs":"It is possible to control the instant location of the personnel.",
+            "Special":"Special or collective announcements can be prepared and sent to the personnel",
+            "InventoryTracking":"Inventory tracking of the devices within the company and personnel assignments and arrangements for the device will be possible."
+        }
+    },
+
+    "Blog": {
+        "Snippet1": "At the 5G Panel..",
+        "Snippet2": "As BLC İletişim ve Güvenlik..",
+        "Snippet3":  "..our first mini data center.",
+        "Snippet4":  "..happy to share this with you!.",
+        "Snippet5":  "With the support of VMware and Türk Telekom..",
+        "Snippet6":  "Together with our local and global ecosystem..",
+        "Snippet7": "we continue to contribute..",
+        "Title1": "We shared our opinions at the ICSG 2021 fair",
+        "Title2": "Metin Balcı, General Manager of BLC, is attending ICSG 2021 as an speaker",
+        "Title3": "Our first mini data center started its operations",
+        "Title4": "Better Life IT Service Now Available in AWS",
+        "Title5": "Our energy optimization in cloud architecture (AYPOS) project proposal has been accepted",
+        "Title6": "BLC has been accepted into the 'Open Grid Alliance'",
+        "Title7": "At the MCW, an MOU for cooperation was signed between the Open Grid Alliance, which we are the only member from our country, and the Linux Foundation.",
+        "Content1":"At the 5G Panel held within the scope of the International Istanbul Smart Grids and Cities Congress and Fair, we shared our views on Smart Cities and 5G. With different vertical sector applications, smart cities are a very good opportunity for our domestic manufacturers to differentiate with their original solutions. We had the pleasure of meeting face to face after a long time.",
+        "Content2":"As BLC İletişim ve Güvenlik AŞ, we are happy to participate as an invited speaker at the 5G Panel to be held within the scope of 'International Istanbul Smart Grids and Smart Cities Congress and Fair ICSG 2021'.",
+        "Content3":"We commissioned our first mini data center.",
+        "Content4":"Better Life IT Service Now Available in AWS",
+        "Content5":{
+            "1": "First of all, we would like to express our gratitude to the valuable staff of our company, our consultant professors Prof. Dr. Fatih Karagöz and Prof. Dr. Osman Taylan, our Türk Telekom, Karel, NetGSM and Canovate companies that supported our project, our referee teachers who took part in the project and Tübitak. ",
+            "2": "We would also like to thank the Nokia Finland and Turkey teams and the VMWare USA and Europe teams for supporting us from abroad.",
+            "3": "In our project, where we plan to realize topics such as Cloud Technologies, Data Center Infrastructures, IoT Systems, Big Data, Artificial Intelligence and Machine Learning with a global product potential and target in a holistic and multidisciplinary project approach, our biggest gain is that our colleagues will take part in such a comprehensive and ambitious work..."
+        },
+        "Content6":{
+            "1": "BLC, which aims to use Cloud, Edge, AI, IOT, 5G/6G and Cyber Security processes effectively with original developments and projects these works with AYPOS, has been accepted to the 'Open Grid Alliance'.",
+            "2": "We would like to thank VMware Global for their support and guidance during the OpenGridAlliance membership process.",
+            "3": "Together with our local and global ecosystem, we are moving towards new targets."
+        },
+        "Content7":{
+            "1": "Development of cloud and IoT technologies to respond to different needs; we continue to contribute to the regulation of technology to cover our own needs."
+        }
+    }
+}  

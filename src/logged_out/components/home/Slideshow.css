@@ -1,0 +1,12 @@
+.containerSlide {
+    width: 650px;
+    height: 200px;
+    margin: auto;
+    padding-top: 75px;
+    align-items: center;
+}
+
+.containerSlide img {
+    height: 500px;
+    align-items: center;
+}

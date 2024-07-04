@@ -1,0 +1,12 @@
+.scrollButton {
+    position: fixed;
+    bottom: 40px;
+    right: 15px;
+    color: #fff;
+    text-align: center;
+}
+
+.scrollIcon {
+    background-color: #0E2A47;
+    border-radius: 20px;
+}

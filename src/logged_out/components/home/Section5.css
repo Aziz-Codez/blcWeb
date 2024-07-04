@@ -1,0 +1,25 @@
+.section5div {
+    display: flex;
+    flex-direction: column;
+    margin-top: -2%;
+}
+
+.section5box {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(80px,1fr));
+    gap: 100px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    margin-bottom: -10%;
+}
+
+.section5image {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+
+@media (min-width: 1550px) {
+    .section5box {
+        margin-bottom: -4%;
+    }
+}
